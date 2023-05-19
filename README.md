@@ -2,7 +2,7 @@
 
 Este blog é uma aplicação desenvolvida em React.
 
-Você pode acessar <a href="" target="_blank">clicando aqui</a> para conferir!
+Você pode acessar <a href="https://eu-blogueiro.netlify.app/" target="_blank">clicando aqui</a> para conferir!
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
