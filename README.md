@@ -4,6 +4,8 @@ Este blog é uma aplicação desenvolvida em React.
 
 Você pode acessar <a href="https://eu-blogueiro.netlify.app/" target="_blank">clicando aqui</a> para conferir!
 
+![BlogPessoalPrint](https://github.com/V-Carvalho/Blog-Pessoal/assets/34304319/462d98d3-d656-4951-884b-d271b45a9fd4)
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 Se liga nessa lista de tudo que usaremos nesse Projeto:
